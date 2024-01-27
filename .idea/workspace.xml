@@ -5,26 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fcafae8-1b2f-4d83-8337-eea726ff419c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/InitMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberDefaultMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/ex/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/ex/BookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleProceduralMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,20 +83,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
       <recent name="oop1" />
       <recent name="ref.ex" />
       <recent name="ref" />
       <recent name="class1.ex" />
-      <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueObjectMain">
-    <configuration name="MusicPlayerMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain1" />
+  <component name="RunManager" selected="Application.BookMain">
+    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain2" />
+    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain3" />
+    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueDataMain" />
+    <configuration name="ContructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ContructMain2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
+    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValueObjectMain" />
-        <item itemvalue="Application.ValueDataMain" />
-        <item itemvalue="Application.MusicPlayerMain3" />
-        <item itemvalue="Application.MusicPlayerMain2" />
-        <item itemvalue="Application.MusicPlayerMain1" />
+        <item itemvalue="Application.BookMain" />
+        <item itemvalue="Application.ConstructMain2" />
+        <item itemvalue="Application.ContructMain2" />
+        <item itemvalue="Application.MemberDefaultMain" />
+        <item itemvalue="Application.ConstructMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,7 @@
       <updated>1706085180164</updated>
       <workItem from="1706085181262" duration="3937000" />
       <workItem from="1706166862020" duration="13695000" />
-      <workItem from="1706256744479" duration="11317000" />
+      <workItem from="1706256744479" duration="20901000" />
     </task>
     <servers />
   </component>

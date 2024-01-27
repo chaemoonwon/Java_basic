@@ -10,5 +10,4 @@ public class ValueObjectMain {
         valueObject.add();
         System.out.println("숫자 증가 value=" + valueObject.value);
     }
-
 }
