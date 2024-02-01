@@ -5,25 +5,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fcafae8-1b2f-4d83-8337-eea726ff419c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberDefault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberDefaultMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/ex/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/ex/BookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleProceduralMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/BankAmountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/SpeakerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/AccessData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/AccessInnerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClassInnerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/b/AccessOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/b/PublicClassOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/CounterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/MaxCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/ex/ShoppingCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/child/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/parent/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ShopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GarCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GarCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GarCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/PolyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCounterMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/helloshop/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/helloshop/product/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +109,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "chaemoonwon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chaemoonwon&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -65,38 +134,46 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/JPA_Data/data_jpa&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/JAVA/Java_basic/java_basic/src/extends1/overriding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="static2.ex" />
+      <recent name="access.ex" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JAVA\Java_basic\java_basic\src\extends1\overriding" />
+      <recent name="C:\JAVA\Java_basic\java_basic\src\extends1\ex3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="construct" />
-      <recent name="oop1" />
-      <recent name="ref.ex" />
-      <recent name="ref" />
-      <recent name="class1.ex" />
+      <recent name="poly.basic" />
+      <recent name="extends1.super2" />
+      <recent name="final1" />
+      <recent name="static2" />
+      <recent name="pack.a" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookMain">
-    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
+  <component name="RunManager" selected="Application.CastingMain5">
+    <configuration name="CastingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain1" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.ex.*" />
+          <option name="PATTERN" value="poly.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
+    <configuration name="CastingMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain3" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="poly.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
+    <configuration name="CastingMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain4" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="poly.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ContructMain2" />
+    <configuration name="CastingMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain5" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="poly.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
+    <configuration name="PolyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.PolyMain" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="poly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookMain" />
-        <item itemvalue="Application.ConstructMain2" />
-        <item itemvalue="Application.ContructMain2" />
-        <item itemvalue="Application.MemberDefaultMain" />
-        <item itemvalue="Application.ConstructMain1" />
+        <item itemvalue="Application.CastingMain5" />
+        <item itemvalue="Application.CastingMain4" />
+        <item itemvalue="Application.CastingMain3" />
+        <item itemvalue="Application.CastingMain1" />
+        <item itemvalue="Application.PolyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +253,8 @@
       <updated>1706085180164</updated>
       <workItem from="1706085181262" duration="3937000" />
       <workItem from="1706166862020" duration="13695000" />
-      <workItem from="1706256744479" duration="20901000" />
+      <workItem from="1706256744479" duration="41506000" />
+      <workItem from="1706589021025" duration="24002000" />
     </task>
     <servers />
   </component>
