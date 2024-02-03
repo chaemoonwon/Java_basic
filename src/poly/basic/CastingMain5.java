@@ -12,14 +12,15 @@ public class CastingMain5 {
         Parent parent2 = new Child();
         System.out.println("parent2 호출");
         call(parent2);
-
     }
 
     private static void call(Parent parent) {
         parent.parentMehtod();
-        if (parent instanceof Child) {
+        // Child c = parent
+        if (parent instanceof Child child) {
             System.out.println("Child 인스턴스 맞음");
-            Child child = (Child) parent;
+            //다운 캐스팅
+//            Child child = (Child) parent;
             child.childMethod();
         } else {
             System.out.println("Child 인스턴스 아님");

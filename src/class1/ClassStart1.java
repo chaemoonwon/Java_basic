@@ -1,7 +1,6 @@
 package class1;
 
 public class ClassStart1 {
-
     public static void main(String[] args) {
         String stdName1 = "학생1";
         int stdAge1 = 15;
