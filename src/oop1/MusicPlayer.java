@@ -24,7 +24,7 @@ public class MusicPlayer {
         volume--;
         System.out.println("음악 플레이어 볼륨 = " + volume);
     }
-     void showStaus() {
+     void showStatus() {
         System.out.println("음악 플레이어의 상태 확인");
         if (isOn) {
             System.out.println("음악 플레이어 ON, 볼륨: " +volume);

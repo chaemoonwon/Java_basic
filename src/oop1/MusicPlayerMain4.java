@@ -15,7 +15,7 @@ public class MusicPlayerMain4 {
         //볼륨 감소
         player.volumeDown();
         //음악 플레이어 상태
-        player.showStaus();
+        player.showStatus();
         //음악 플레이어 끄기
         player.off();
 

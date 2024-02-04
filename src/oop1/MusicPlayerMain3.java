@@ -18,7 +18,7 @@ public class MusicPlayerMain3 {
         //볼륨 감소
         volumeDown(data);
         //음악 플레이어 상태
-        showStaus(data);
+        showStatus(data);
         //음악 플레이어 끄기
         off(data);
 
@@ -50,7 +50,7 @@ public class MusicPlayerMain3 {
         System.out.println("음악 플레이어 볼륨 = " + data.volume);
     }
 
-    static void showStaus(MusicPlayerData data) {
+    static void showStatus(MusicPlayerData data) {
         System.out.println("음악 플레이어의 상태 확인");
         if (data.isOn) {
             System.out.println("음악 플레이어 ON, 볼륨: " +data.volume);
