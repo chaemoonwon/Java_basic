@@ -19,7 +19,6 @@ public class AbstractMain {
         soundAnimal(cat);
         soundAnimal(cow);
         soundAnimal(duck);
-
     }
 
     private static void soundAnimal(AbstractAnimal animal) {
@@ -27,6 +26,4 @@ public class AbstractMain {
         animal.sound();
         System.out.println("동물 소리 테스트 종료");
     }
-
-
 }

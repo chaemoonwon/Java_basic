@@ -17,4 +17,12 @@ public class Child extends Parent{
         super.hello();
     }
 
+    public void call2() {
+        System.out.println("value = " + value);   //this는 자기 자신 참조
+//        System.out.println("super value = " + super.value); //super는 부모 클래스의 참조
+
+        hello();   //this 생략 가능
+//        super.hello();
+    }
+
 }

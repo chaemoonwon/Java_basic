@@ -1,6 +1,6 @@
 package poly.ex1;
 
-public class AnimalSountMain {
+public class AnimalSoundMain {
     public static void main(String[] args) {
         Dog dog = new Dog();
         Cat cat = new Cat();

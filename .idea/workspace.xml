@@ -5,81 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fcafae8-1b2f-4d83-8337-eea726ff419c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/NewCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/DiamondMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/FaceBookSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/SendMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/SmsSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/DefaultPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/KakaoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/NaverPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/PayMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/DefaultPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/KakaoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/NaverPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex6/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex6/SoundFlyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/overrinding/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/overrinding/OverringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/overrinding/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/super1/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,22 +53,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/JAVA/Java_basic/java_basic/src/poly/ex/pay1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "copyright",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Spring_DB/jdbc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="static2.ex" />
@@ -157,13 +88,13 @@
       <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PayMain2">
-    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
+  <component name="RunManager" selected="Application.AbstractMain">
+    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="poly.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.pay0.PayMain0" />
+    <configuration name="AnimalPolyMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.pay0.*" />
+          <option name="PATTERN" value="poly.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.pay1.PayMain1" />
+    <configuration name="AnimalPolyMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain3" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.pay1.*" />
+          <option name="PATTERN" value="poly.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.pay1.PayMain2" />
+    <configuration name="ShopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex.ShopMain" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.pay1.*" />
+          <option name="PATTERN" value="extends1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SendMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex.SendMain" />
+    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super2.Super2Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex.*" />
+          <option name="PATTERN" value="extends1.super2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PayMain2" />
-        <item itemvalue="Application.ClassStart5" />
-        <item itemvalue="Application.PayMain0" />
-        <item itemvalue="Application.SendMain" />
-        <item itemvalue="Application.PayMain1" />
+        <item itemvalue="Application.AbstractMain" />
+        <item itemvalue="Application.AnimalPolyMain3" />
+        <item itemvalue="Application.AnimalPolyMain2" />
+        <item itemvalue="Application.ShopMain" />
+        <item itemvalue="Application.Super2Main" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +175,8 @@
       <workItem from="1706085181262" duration="3937000" />
       <workItem from="1706166862020" duration="13695000" />
       <workItem from="1706256744479" duration="41506000" />
-      <workItem from="1706589021025" duration="51767000" />
+      <workItem from="1706589021025" duration="54592000" />
+      <workItem from="1707473397519" duration="8182000" />
     </task>
     <servers />
   </component>
