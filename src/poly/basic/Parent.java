@@ -1,8 +1,8 @@
-package poly;
+package poly.basic;
 
 public class Parent {
 
-    public void parentMehtod() {
+    public void parentMethod() {
         System.out.println("Parent.parentMethod");
     }
 

@@ -1,16 +1,13 @@
 package poly.basic;
 
-import poly.Child;
-import poly.Parent;
-
+//upcasting vs downcasting
 public class CastingMain3 {
     public static void main(String[] args) {
         Child child = new Child();
         Parent parent1 = (Parent) child; // 업캐스팅은 생략 가능, 생략 권장
-        Parent parent2 = child; //업캐스팅 생략
+        Parent parent2 = child; //업캐스팅 생략(부모 타입을 생략해서 사용할 수 있음.)
 
-        parent1.parentMehtod();
-        parent2.parentMehtod();
-
+        parent1.parentMethod();
+        parent2.parentMethod();
     }
 }
