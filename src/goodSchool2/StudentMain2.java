@@ -1,6 +1,6 @@
 package goodSchool2;
 
-public class StudentMain1 {
+public class StudentMain2 {
     public static void main(String[] args) {
         Student[] students = new Student[]
                 {
@@ -17,17 +17,13 @@ public class StudentMain1 {
 
 
         //국어 수강생 학점 출력
-        System.out.println("국어 수강생 학점");
-        System.out.println("이름  |   학번  |중점과목|  점수");
-        for (Student student : students) {
-            if (student.major.equals(Major.KOREAN)) {
-                System.out.println(student.stName + " | " + student.stNum + " | " +subject.getSubject(Major.KOREAN) + " | " + student.kor + " | " + requireScore.getGrade(student.kor));
-            } else if (student.major.equals(Major.COMPUTER)) {
-                System.out.println(student.stName + " | " + student.stNum + " | " +subject.getSubject(Major.COMPUTER) + " | " + student.kor + " | " + generateScore.getGrade(student.kor));
-            }
-        }
+        KorStudentScore(students, subject, requireScore, generateScore);
 
         //수학 수강생 학점 출력
+        MathStudetScore(students, subject, requireScore, generateScore);
+    }
+
+    private static void MathStudetScore(Student[] students, Subject subject, RequireScore requireScore, GenerateScore generateScore) {
         System.out.println("수학 수강생 학점");
         System.out.println("이름  |   학번  |중점과목|  점수");
         for (Student student : students) {
@@ -37,6 +33,17 @@ public class StudentMain1 {
                 System.out.println(student.stName + " | " + student.stNum + " | " + subject.getSubject(Major.KOREAN) + " | " + student.math + " | " + generateScore.getGrade(student.math));
             }
         }
+    }
 
+    private static void KorStudentScore(Student[] students, Subject subject, RequireScore requireScore, GenerateScore generateScore) {
+        System.out.println("국어 수강생 학점");
+        System.out.println("이름  |   학번  |중점과목|  점수");
+        for (Student student : students) {
+            if (student.major.equals(Major.KOREAN)) {
+                System.out.println(student.stName + " | " + student.stNum + " | " + subject.getSubject(Major.KOREAN) + " | " + student.kor + " | " + requireScore.getGrade(student.kor));
+            } else if (student.major.equals(Major.COMPUTER)) {
+                System.out.println(student.stName + " | " + student.stNum + " | " + subject.getSubject(Major.COMPUTER) + " | " + student.kor + " | " + generateScore.getGrade(student.kor));
+            }
+        }
     }
 }

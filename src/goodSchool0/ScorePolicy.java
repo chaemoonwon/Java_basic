@@ -1,6 +1,7 @@
 package goodSchool0;
 
 public class ScorePolicy {
+    //필수 과목의 학점 기준
     public String require(int score) {
         if (score >= 95 && score <= 100) {
             return "S";
@@ -16,6 +17,8 @@ public class ScorePolicy {
             return "F";
         }
     }
+
+    //일반 과목의 학점 기준
     public String generate(int score) {
         if (score >= 90 && score <= 100) {
             return "A";

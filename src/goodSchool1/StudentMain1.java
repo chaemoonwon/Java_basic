@@ -35,6 +35,5 @@ public class StudentMain1 {
                 System.out.println(student.stName + " | " + student.stNum + " | " + subject.getSubject(Major.KOREAN) + " | " + student.math + " | " + scorePolicy.generate(student.math));
             }
         }
-
     }
 }
