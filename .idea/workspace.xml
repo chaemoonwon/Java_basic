@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fcafae8-1b2f-4d83-8337-eea726ff419c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/goodSchool2/StudentMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ExceptionAppV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ExceptionAppV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/MainThreadEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/BeepPrintExV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/BeepPrintExV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/BeepPrintExV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/BeepPrintExV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/BeepPrintExV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/PrintThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/multi/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/synchronize/SynchronizedEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/work/WorkThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goodSchool0/Major.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool0/Major.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goodSchool0/ScorePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool0/ScorePolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goodSchool1/StudentMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool1/StudentMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goodSchool2/StudentMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool2/StudentMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,20 +90,20 @@
       <recent name="C:\JAVA\Java_basic\java_basic\src\poly\ex4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread.Multi" />
+      <recent name="thread" />
+      <recent name="exception" />
       <recent name="goodSchool2" />
       <recent name="goodSchool" />
-      <recent name="poly.ex.pay1" />
-      <recent name="poly.car0" />
-      <recent name="poly.diamond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentMain3">
-    <configuration name="StudentMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goodSchool.StudentMain0" />
+  <component name="RunManager" selected="Application.BeepPrintExV4">
+    <configuration name="BeepPrintExV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.multi.BeepPrintExV0" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goodSchool1.*" />
+          <option name="PATTERN" value="thread.multi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goodSchool1.StudentMain1" />
+    <configuration name="BeepPrintExV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.multi.BeepPrintExV1" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goodSchool1.*" />
+          <option name="PATTERN" value="thread.multi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goodSchool2.StudentMain2" />
+    <configuration name="BeepPrintExV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.multi.BeepPrintExV2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goodSchool2.*" />
+          <option name="PATTERN" value="thread.multi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goodSchool2.StudentMain3" />
+    <configuration name="BeepPrintExV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.multi.BeepPrintExV3" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goodSchool2.*" />
+          <option name="PATTERN" value="thread.multi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="goodSchool0.StudentMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="goodSchool0.StudentMain0" />
+    <configuration name="BeepPrintExV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.multi.BeepPrintExV4" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="goodSchool0.*" />
+          <option name="PATTERN" value="thread.multi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentMain3" />
-        <item itemvalue="Application.StudentMain2" />
-        <item itemvalue="Application.StudentMain1" />
-        <item itemvalue="Application.goodSchool0.StudentMain0" />
-        <item itemvalue="Application.StudentMain0" />
+        <item itemvalue="Application.BeepPrintExV4" />
+        <item itemvalue="Application.BeepPrintExV3" />
+        <item itemvalue="Application.BeepPrintExV2" />
+        <item itemvalue="Application.BeepPrintExV1" />
+        <item itemvalue="Application.BeepPrintExV0" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +197,8 @@
       <workItem from="1708132120157" duration="4043000" />
       <workItem from="1708144347840" duration="10000" />
       <workItem from="1708149736561" duration="1151000" />
+      <workItem from="1708323078879" duration="4323000" />
+      <workItem from="1708671672398" duration="8394000" />
     </task>
     <servers />
   </component>
