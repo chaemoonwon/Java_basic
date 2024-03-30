@@ -5,17 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fcafae8-1b2f-4d83-8337-eea726ff419c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/en/ConstantV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/WeekExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v0/ConstantV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v1/COMPANY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v1/ConstantV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v1/FRUIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v2/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v2/ConstantV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/en/v2/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/an/AnnotationEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/an/Count100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/an/MyHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/an/MyHelloEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/AnimalList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/AnimalListV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/GenericMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/GenerateScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/RequireScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/ScoreBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/ScorePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/StudentMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/StudentMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/StudentMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool3/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input_ouput/Exam01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input_ouput/Exam02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/CompareExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/LambdaEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool0/Kor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool0/Kor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool0/Major.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool0/Major.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool0/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool0/Math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool0/ScorePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool0/ScorePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool0/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool0/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool0/StudentMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool0/StudentMain0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool1/Major.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool1/Major.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool1/ScorePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool1/ScorePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool1/StudentMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool1/StudentMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool1/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool1/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/GenerateScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/GenerateScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/Major.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/Major.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/RequireScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/RequireScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/ScorePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/ScorePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/StudentMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/StudentMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/StudentMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/StudentMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goodSchool2/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goodSchool/goodSchool2/Subject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +61,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -58,50 +94,50 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/JAVA/Java_basic/java_basic/src/en/v2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "copyright",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JAVA/Java_basic/java_basic/src/goodSchool/goodSchool3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="static2.ex" />
       <recent name="access.ex" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JAVA\Java_basic\java_basic\src\goodSchool\goodSchool3" />
       <recent name="C:\JAVA\Java_basic\java_basic\src\en\v2" />
       <recent name="C:\JAVA\Java_basic\java_basic\src\en\v1" />
       <recent name="C:\JAVA\Java_basic\java_basic\src\en" />
       <recent name="C:\JAVA\Java_basic\java_basic\src\goodSchool0" />
-      <recent name="C:\JAVA\Java_basic\java_basic\src\goodSchool2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generic" />
+      <recent name="goodSchool.goodSchool3" />
       <recent name="thread.Multi" />
       <recent name="thread" />
       <recent name="exception" />
-      <recent name="goodSchool2" />
-      <recent name="goodSchool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstantV3">
-    <configuration name="BeepPrintExV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.multi.BeepPrintExV1" />
+  <component name="RunManager" selected="Application.CompareExam">
+    <configuration name="CompareExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.CompareExam" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.multi.*" />
+          <option name="PATTERN" value="lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="en.v1.ConstantV1" />
+    <configuration name="StudentMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goodSchool.goodSchool1.StudentMain1" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="en.v1.*" />
+          <option name="PATTERN" value="goodSchool.goodSchool1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="en.v2.ConstantV2" />
+    <configuration name="StudentMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goodSchool.goodSchool3.StudentMain4" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="en.v2.*" />
+          <option name="PATTERN" value="goodSchool.goodSchool3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="en.ConstantV3" />
+    <configuration name="goodSchool.goodSchool2.StudentMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goodSchool.goodSchool2.StudentMain2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="en.*" />
+          <option name="PATTERN" value="goodSchool.goodSchool2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainThreadEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.MainThreadEx" />
+    <configuration name="goodSchool.goodSchool3.StudentMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goodSchool.goodSchool3.StudentMain3" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="goodSchool.goodSchool3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstantV3" />
-        <item itemvalue="Application.ConstantV2" />
-        <item itemvalue="Application.ConstantV1" />
-        <item itemvalue="Application.BeepPrintExV1" />
-        <item itemvalue="Application.MainThreadEx" />
+        <item itemvalue="Application.CompareExam" />
+        <item itemvalue="Application.StudentMain1" />
+        <item itemvalue="Application.goodSchool.goodSchool2.StudentMain2" />
+        <item itemvalue="Application.goodSchool.goodSchool3.StudentMain3" />
+        <item itemvalue="Application.StudentMain4" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +235,12 @@
       <workItem from="1708671672398" duration="8394000" />
       <workItem from="1709109578793" duration="2008000" />
       <workItem from="1709203421298" duration="17800000" />
+      <workItem from="1709808981773" duration="4371000" />
+      <workItem from="1710520298390" duration="8125000" />
+      <workItem from="1711088637081" duration="8806000" />
+      <workItem from="1711161314985" duration="1975000" />
+      <workItem from="1711428645589" duration="176000" />
+      <workItem from="1711684753359" duration="6237000" />
     </task>
     <servers />
   </component>
@@ -214,7 +256,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/goodSchool2/Subject.java</url>
+          <url>file://$PROJECT_DIR$/src/goodSchool/goodSchool2/Subject.java</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
